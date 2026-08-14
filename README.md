@@ -3,12 +3,6 @@
 The marketing/landing page for [BackitSnappy](https://github.com/PrajwalAnkushrao8/BackitSnappy).
 Plain static HTML/CSS, no build step, no dependencies.
 
-## Before deploying
-
-There's one placeholder screenshot slot left (the empty frame in the
-Security section of `index.html`) — drop a real screenshot or screen
-recording there before publishing.
-
 ## Deploying to GitHub Pages
 
 1. Push this repo to GitHub.
